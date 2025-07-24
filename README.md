@@ -52,8 +52,8 @@ Unlike traditional Telegram bots that use commands like `/bookevent` or `/sendem
 ## 📷 Screenshots
 
 ![Calendar Workflow](Screenshots/Calendar_Workflow.jpg)  
-![Screenshot 2](./screenshots/screenshot2.png)
-![Screenshot 3](./screenshots/screenshot3.png)
+![Personal Assistant Workflow](Screenshots/Personal_Assistant.jpg)
+![E-Mail Workflow](Screenshots/EMail_Workflow.jpg)
 
 ---
 
@@ -90,7 +90,7 @@ This is a beginner-friendly project. If you're learning **n8n**, **OpenAI**, or 
 If you're interested in collaboration, guidance, or just want to connect:
 
 - Twitter: [@aiml_vis](https://x.com/aiml_vis)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/s-r-vishnu-ba46b025b/)
+- LinkedIn: [Vishnu S.R.](https://www.linkedin.com/in/s-r-vishnu-ba46b025b/)
 
 ---
 
