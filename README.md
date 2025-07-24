@@ -51,8 +51,9 @@ Unlike traditional Telegram bots that use commands like `/bookevent` or `/sendem
 
 ## 📷 Screenshots
 
-![Screenshot 1](./screenshots/screenshot1.png)  
+![Calendar Workflow](Screenshots/Calendar_Workflow.jpg)  
 ![Screenshot 2](./screenshots/screenshot2.png)
+![Screenshot 3](./screenshots/screenshot3.png)
 
 ---
 
@@ -88,8 +89,8 @@ This is a beginner-friendly project. If you're learning **n8n**, **OpenAI**, or 
 
 If you're interested in collaboration, guidance, or just want to connect:
 
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- Twitter: [@aiml_vis](https://x.com/aiml_vis)
+- LinkedIn: [Your Name](https://www.linkedin.com/in/s-r-vishnu-ba46b025b/)
 
 ---
 
